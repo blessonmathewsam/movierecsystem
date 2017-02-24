@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 #Movie Recommendation System - Spark, Scala, AWS
 A movie recommendation system built using Apache Spark and Scala. 
 
@@ -15,13 +13,3 @@ Cosine Similarity and Jaccard Coefficient are used to measure similarities.
 Results for movie id 260, Star Wars: Episode IV - A New Hope
 
 ![Alt text](http://blesson.me/recs.png)
-
-
-=======
-# movierecsystem
-A movie recommendation system built using Apache Spark and Scala. 
->>>>>>> 8b3a6e241f838aec3d6076b571b0bb15c932ff86
-=======
-# movierecsystem
-A movie recommendation system built using Apache Spark and Scala. 
->>>>>>> 8cedeaa10e0804a0b2296b6ad87f3f7366c3a156
